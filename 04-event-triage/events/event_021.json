@@ -1,0 +1,17 @@
+{
+  "event_id": "event_021",
+  "timestamp": "2025-07-15T15:49:05Z",
+  "fish_id": "fish-02",
+  "gps": {
+    "lat": 32.669094,
+    "lon": -117.178595
+  },
+  "depth_m": 6.0,
+  "sensor_type": "hydrophone",
+  "auto_classification": "obstacle",
+  "confidence": 0.73,
+  "image_path": "event_021.png",
+  "notes": "",
+  "reviewed": false,
+  "human_classification": null
+}

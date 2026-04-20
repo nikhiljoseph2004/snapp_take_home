@@ -1,0 +1,17 @@
+{
+  "event_id": "event_008",
+  "timestamp": "2025-07-15T17:48:19Z",
+  "fish_id": "fish-04",
+  "gps": {
+    "lat": 32.707382,
+    "lon": -117.180232
+  },
+  "depth_m": 7.2,
+  "sensor_type": "camera",
+  "auto_classification": "marine_mammal",
+  "confidence": 0.88,
+  "image_path": "event_008.png",
+  "notes": "",
+  "reviewed": false,
+  "human_classification": null
+}
